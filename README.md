@@ -1,16 +1,16 @@
-# Aplicacion Web: Frontend
+# Aplicacion Web Frontend: Big Data.
 ## ¿En que consiste la App?  
-Muestra un serie de graficos donde se puede consultar y comparar el PBI de los paises que conforman el cono sur.  
+Visualización interactiva de datos. Muestra un serie de graficos donde se puede consultar y comparar el PBI de los paises que conforman el cono sur.  
  
 
 ## Caracteristicas
 1) Aplicación Web usando HTML, CSS, JS y uso de la libreria ChartJS.  
-2) Request a la db que ofrece CEPAL a travez de una peticion Fetch 
+2) Request a la db que ofrece CEPAL a través de una peticion Fetch 
 
 
-### Requerimientos: 
+## Requerimientos: 
 1) Una vez descargado el proyecto, abrir en el navegador  
-2) Nota: No necesita instalación de dependencias
+2) No necesita instalación de dependencias
 
   
 ## Project Screens
