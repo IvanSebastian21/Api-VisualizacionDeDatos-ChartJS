@@ -1,6 +1,6 @@
-# Aplicacion Web Frontend: Big Data.
+# Aplicacion Web Frontend: Visualización interactiva de datos.
 ## ¿En que consiste la App?  
-Visualización interactiva de datos. Muestra un serie de graficos donde se puede consultar y comparar el PBI de los paises que conforman el cono sur.  
+Muestra un serie de graficos donde se puede consultar y comparar el PBI de los paises que conforman el cono sur.  
  
 
 ## Caracteristicas
