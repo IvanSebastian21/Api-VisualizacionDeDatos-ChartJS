@@ -1,4 +1,5 @@
 # Aplicacion Web Frontend: Visualización interactiva de datos.
+[_Enlace_](https://www.linkedin.com/feed/update/urn:li:activity:6877253554139103232/)
 ## ¿En que consiste la App?  
 Muestra un serie de graficos donde se puede consultar y comparar el PBI de los paises que conforman el cono sur.  
  
